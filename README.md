@@ -20,7 +20,7 @@ PacCarl takes you on a nostalgic journey where you control the character Carl th
 ## Soundtrack
 The soundtrack for PacCarl was created using PD audio software, which allows for unique and engaging audio experiences. The composition complements the gameplay, adding an immersive element to the overall experience.
 
-## Video Demo
+## Game Demo
 
 Here's a screenshot that showcases the app and its implemented features:
 
